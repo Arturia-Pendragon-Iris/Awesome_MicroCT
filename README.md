@@ -25,7 +25,7 @@ An opinionated list of awesome micro-CT datasets in Zenodo and Dryad Digital Rep
   - [Taxonomic identification using virtual palaeontology and geometric morphometrics](https://datadryad.org/stash/dataset/doi:10.5061/dryad.7m0cfxps4)
   - [A qualitative assessment of calcification across species and sexes of European Bufo toads](https://datadryad.org/stash/dataset/doi:10.5061/dryad.gtht76hqv)
   - [Brain size variation along altitudinal gradients in the Asiatic Toad (Bufo gargarizans)](https://datadryad.org/stash/dataset/doi:10.5061/dryad.mcvdncjzc)
-  - [Whole-organism 3D quantitative characterization of zebrafish melanin by silver deposition micro-CT (https://datadryad.org/stash/dataset/doi:10.5061/dryad.mcvdncjzc))
+  - [Whole-organism 3D quantitative characterization of zebrafish melanin by silver deposition micro-CT](https://datadryad.org/stash/dataset/doi:10.5061/dryad.mcvdncjzc)
   - [Revision of Icacinaceae from the Early Eocene London Clay flora based on X-ray micro-CT](https://datadryad.org/stash/dataset/doi:10.5061/dryad.706df)
   - [Micro-CT data and associated MATLAB scripts from the skeleton of the sea urchin Cidaris rugosa at four different resolutions](https://datadryad.org/stash/dataset/doi:10.5061/dryad.wdbrv15vf)
   - [Determinate growth is predominant and likely ancestral in squamate reptiles](https://datadryad.org/stash/dataset/doi:10.5061/dryad.dbrv15dxz)
