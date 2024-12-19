@@ -1,4 +1,4 @@
-# Awesome_MicroCT
+# Awesome MicroCT
 An opinionated list of awesome micro-CT datasets in Zenodo and Dryad Digital Repository.
 - [**Zenodo**]([#](https://zenodo.org/))
   - [Nutrient-dependent growth underpinned the Ediacaran transition to large body size](https://zenodo.org/records/4938539)
