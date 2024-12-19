@@ -17,6 +17,23 @@ An opinionated list of awesome micro-CT datasets in Zenodo and Dryad Digital Rep
   - [Aphrodita longipalpa (Aphroditidae: Annelida) parasitized with Veneriserva pygoclava (Dorvilleidae: Annelida)](https://zenodo.org/records/8260723)
 
 - [**Dryad Digital Repository**]([#](https://datadryad.org/stash))
+  - [3D micro-CT image of cichlid fish samples for genetic analysis](https://datadryad.org/stash/dataset/doi:10.6078/D1M13B)
+  - [Micro CT scans of TMP2023.012.0237 - Pterosaur cervical vertebra with bite mark](https://datadryad.org/stash/dataset/doi:10.5061/dryad.d51c5b09m)
+  - [Micro-CT data of two early Cambrian cnidarian fossils from China](https://datadryad.org/stash/dataset/doi:10.5061/dryad.c866t1gg7)
+  - [Maternal care in mid-Cretaceous lagonomegopid spiders](https://datadryad.org/stash/dataset/doi:10.5061/dryad.7m0cfxpv0)
+  - [Automated segmentation of insect anatomy from micro-CT images using deep learning](https://datadryad.org/stash/dataset/doi:10.5061/dryad.qz612jmgv)
+  - [Taxonomic identification using virtual palaeontology and geometric morphometrics](https://datadryad.org/stash/dataset/doi:10.5061/dryad.7m0cfxps4)
+  - [A qualitative assessment of calcification across species and sexes of European Bufo toads](https://datadryad.org/stash/dataset/doi:10.5061/dryad.gtht76hqv)
+  - [Brain size variation along altitudinal gradients in the Asiatic Toad (Bufo gargarizans)](https://datadryad.org/stash/dataset/doi:10.5061/dryad.mcvdncjzc)
+  - [Whole-organism 3D quantitative characterization of zebrafish melanin by silver deposition micro-CT (https://datadryad.org/stash/dataset/doi:10.5061/dryad.mcvdncjzc))
+  - [Revision of Icacinaceae from the Early Eocene London Clay flora based on X-ray micro-CT](https://datadryad.org/stash/dataset/doi:10.5061/dryad.706df)
+  - [Micro-CT data and associated MATLAB scripts from the skeleton of the sea urchin Cidaris rugosa at four different resolutions](https://datadryad.org/stash/dataset/doi:10.5061/dryad.wdbrv15vf)
+  - [Determinate growth is predominant and likely ancestral in squamate reptiles](https://datadryad.org/stash/dataset/doi:10.5061/dryad.dbrv15dxz)
+  - [ant genus Zasphinctus Wheeler (Hymenoptera, Formicidae, Dorylinae) in the Afrotropics](https://datadryad.org/stash/dataset/doi:10.5061/dryad.4s3v1)
+  - [ant genus Proceratium Roger (Hymenoptera, Formicidae, Proceratiinae) in China](https://datadryad.org/stash/dataset/doi:10.5061/dryad.h6j0g4p)
+  - [high-detail imaging for myriapod taxonomy and first 3D cybertype of a new millipede species](https://datadryad.org/stash/dataset/doi:10.5061/dryad.2pf38)
+  - [Computational 3D histological phenotyping of whole zebrafish by X-ray histotomography](https://datadryad.org/stash/dataset/doi:10.5061/dryad.2pf38)
+  - [Tooth replacement in basal sarcopterygians](https://datadryad.org/stash/dataset/doi:10.5061/dryad.3nj1k8s)
 
 
 
