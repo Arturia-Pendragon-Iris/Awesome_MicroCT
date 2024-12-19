@@ -14,7 +14,9 @@ An opinionated list of awesome micro-CT datasets in Zenodo and Dryad Digital Rep
   - [The cephalic anatomy of workers of the ant species Wasmannia affinis and its evolutionary implications](https://zenodo.org/records/4988090)
   - [Curvature-induced stiffening of a fish fin](https://zenodo.org/records/4947653)
   - [Micro X-ray CT time-series](https://zenodo.org/records/4293394)
-  
+  - [Aphrodita longipalpa (Aphroditidae: Annelida) parasitized with Veneriserva pygoclava (Dorvilleidae: Annelida)](https://zenodo.org/records/8260723)
+
+- [**Dryad Digital Repository**]([#](https://datadryad.org/stash))
 
 
 
